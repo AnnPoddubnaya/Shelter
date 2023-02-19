@@ -78,7 +78,7 @@ slider.addEventListener('animationend', (animationEvent) => {
 		itemsLeft.innerHTML = '';
 		const sliderItem1 = document.createElement('div');
 		sliderItem1.classList.add('slider__item');
-		sliderItem1.setAttribute('popup4');
+		// sliderItem1.setAttribute('popup4');
 		itemsLeft.appendChild(sliderItem1);
 
 		const itemImg1 = document.createElement('div')
