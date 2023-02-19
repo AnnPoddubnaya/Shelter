@@ -1496,7 +1496,9 @@ body {}
 
 }
 
-.slider__item {}
+.slider__items {
+	display: flex;
+}
 
 
 
